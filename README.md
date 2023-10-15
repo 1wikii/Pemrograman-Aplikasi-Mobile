@@ -14,4 +14,4 @@ https://github.com/1wikii/pemrograman-aplikasi-mobile/assets/92775985/153bfd09-0
 
 ## Tugas 4 Preview
 
-https://github.com/1wikii/pemrograman-aplikasi-mobile/blob/main/preview/Tugas-5-Preview.mp4
+<img src="https://github.com/1wikii/pemrograman-aplikasi-mobile/blob/main/preview/Tugas-5-Preview.mp4" alt="Not Found" width="500px">
